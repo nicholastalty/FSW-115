@@ -1,0 +1,62 @@
+{
+    "appetizers": [
+        {
+            "name": "Panko Shrimp",
+            "ingredients": ["Shrimp", "Panko Breadcrumbs"],
+            "description": "Shrimp spreaded with Panko Breadcrumbs."
+        },
+        {
+            "name": "Buffalo Wings",
+            "ingredients": ["Buffalo Wings", "Buffalo Sauce"],
+            "description": "Chicken wings covered in buffalo sauce."
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "Peanut Butter & Jelly",
+            "ingredients": ["Peanut Butter","Grape Jelly"],
+            "description": "A basic peanut butter and jelly sandwich on wheat bread."
+        },
+        {
+            "name": "Club Sandwich",
+            "ingredients": ["Lettuce","Tomatoes", "Turkey"],
+            "description": "Club Sandwich with lettuce, tomatoes, and turkey on white bread."
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "Pulled Pork Sandwich",
+            "ingredients": ["Pulled Pork","BBQ Sauce"],
+            "description": "Pulled pork covered in BBQ sauce on a potato bun."
+        },
+        {
+            "name": "Grilled Cheese",
+            "ingredients": ["American Cheese","French Bread"],
+            "description": "A basic grilled cheese sandwich on french bread. Just like mom used to make!"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Cheesecake",
+            "ingredients": ["Cream Cheese","Eggs", "Sugar", "Graham Cracker Crust"],
+            "description": "Cheesecake straight out of New York."
+        },
+        {
+            "name": "Ice Cream",
+            "ingredients": ["Milk","Sugar", "Flavorings"],
+            "description": "Philadelphia Style Ice Cream made with milk, sugar, and many assorted flavorings. It's a classic you will want to enjoy."
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Soda",
+            "ingredients": ["Sugar","Artificial Flavors"],
+            "description": "Carbonated drink with many artificial flavors. Fizzy!"
+        },
+        {
+            "name": "Fruit Smoothie",
+            "ingredients": ["Bananas","Strawberries"],
+            "description": "Bananas and Strawberries blended straight from the smoothie. Yum!"
+        }
+    ]
+}
